@@ -3,4 +3,4 @@ Git is a free software distributed under the GPL.
 I love hangen.
 Git has mutable index called stage
 Git records tracks of files;
-Branch is so complex;
+Branch is so complex ,But I still love it ;
